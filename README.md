@@ -1,23 +1,17 @@
-# Paradise Nursery
+# Simple Interest Calculator
 
-Paradise Nursery is a plant shop application built using React.
+A simple interest calculator that calculates the simple interest based on the principal amount, rate of interest, and time period.
 
-## Project Description
+## Formula
 
-Paradise Nursery allows users to browse plants and add plants to a shopping cart.
+Simple Interest = (Principal × Rate × Time) / 100
 
-## Features
+## Inputs
 
-- Landing page
-- Plant product listing
-- Add to cart
-- Update quantity
-- Remove items from cart
-- Shopping cart management
+- Principal Amount
+- Rate of Interest
+- Time Period
 
-## Technologies Used
+## Output
 
-- React
-- JavaScript
-- CSS
-- Redux Toolkit
+The calculator displays the calculated Simple Interest.
